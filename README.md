@@ -1,2 +1,1 @@
-# ChessGame
-A built out chess game featuring chess rules
+Note: Contributions made by Noah Zahrt and Chris Dovolis
